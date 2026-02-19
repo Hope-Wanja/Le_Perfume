@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perfumes>
+  <perfume>
+    <name>Her Confession</name>
+    <scent>Vanilla, floral, musk,amber</scent>
+    <price>Ksh.4,800</price>
+     <image>images\Her-Confession-copy-scaled.jpg </image>
+  </perfume>
+  <perfume>
+    <name>Yara</name>
+    <scent> Amber Vanilla fragrance</scent>
+    <price>Ksh2,999</price>
+    <image>images/1-78.jpg</image>
+  </perfume>
+  <perfume>
+    <name>J'adore Eau de Perfume</name>
+    <scent>Bright and Sweet</scent>
+    <price>Ksh.15,000</price>
+    <image>images/4ec55311692acf6f10389463a5891d00.jpg</image>
+  </perfume>
+  <perfume>
+    <name>Miss Dior</name>
+    <scent>Bright and Sweet</scent>
+    <price>Ksh.10,000</price>
+    <image>images/miss dior.jpg</image>
+  </perfume>
+  <perfume>
+    <name>Yves Saint Laurent(YSL)</name>
+    <scent>Lavender,Orange Blossom, </scent>
+    <price>Ksh.12,000</price>
+    <image>images/ysl.jpg</image>
+  </perfume>
+  <perfume>
+    <name>KAYALI</name>
+    <scent>Vanilla</scent>
+    <price>Ksh.3,800</price>
+    <image>images/kayali.jpg</image>
+  </perfume>
+</perfumes>
