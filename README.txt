@@ -1,5 +1,5 @@
 The website, Le perfume is a perfume themed website that is designed to offer aesthetically pleasing and an interactive experience for the user.
-In the website, the users are able to explore perfume options thriugh an image slider.
+In the website, the users are able to explore perfume options through an image slider.
 To build the website I have used HTML, CSS, JAVASCRIPT and XML
 
 Features:
